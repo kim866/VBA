@@ -1,6 +1,5 @@
-# danielkim_VBA_HW
+# VBA
 
-#I have completed the easy assingment. Dartanian has given me an extension until Dec 8th 11:59 PM. I am attaching both the screen shot and the file that has the Macro. 
-
-#alphabetical_testing.xlsm has the macro code
-#Daniel Kim VBA HW SS is the screenshot I took of the 2015 on Multiple_year_stock_data after I ran the macro
+* Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
+* You will also need to display the ticker symbol to coincide with the total volume.
+* Your result should look as follows (note: all solution images are for 2015 data).
